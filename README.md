@@ -10,7 +10,7 @@ ____________
 tg_token: telegram bot apisi
 
 spreadsheetId: google sheet urlsinin içindeki 
-token örnek parantez içinde : https://docs.google.com/spreadsheets/d/'''1XbH9N65i2BI4WLGkpnYlMJC3EFPkU9wmvD'''/edit#gid=0
+token örnek parantez içinde olan kısım : https://docs.google.com/spreadsheets/d/'''1XbH9N65i2BI4WLGkpnYlMJC3EFPkU9wmvD'''/edit#gid=0
 
 TELEGRAM ID: telegram hesabıbızın id'si.
 
